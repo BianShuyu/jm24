@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_curriculum_schedule_refresh"
+        android:title="下载教务网课程表" />
+    <item
+        android:id="@+id/action_curriculum_schedule_current_week"
+        android:title="查看当前周" />
+    <item
+        android:id="@+id/action_curriculum_schedule_add"
+        android:title="添加课程" />
+</menu>

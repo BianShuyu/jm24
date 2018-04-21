@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_results_query_refresh"
+        android:title="刷新"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_results_query_sort_default"
+        android:title="默认排序（时间）"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_results_query_sort_name"
+        android:title="按课程名排序"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_results_query_sort_gpa"
+        android:title="按绩点排序" />
+    <item
+        android:id="@+id/action_results_query_summary"
+        android:visible="false"
+        android:title="@string/item_text_results_query_summary" />
+
+</menu>

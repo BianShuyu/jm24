@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">金橙微校园</string>
+    <string name="forget_password">忘记密码</string>
+    <string name="sign_up">注册账号</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!--按钮固定文字-->
+    <string name="button_text_results_query">成绩查询</string>
+    <string name="button_text_curriculum_schedule">课程表</string>
+    <string name="button_text_school_bus">校车时刻表</string>
+    <string name="item_text_results_query_summary">统计信息</string>
+    <string name="button_text_settings">设置</string>
+    <string name="button_text_jcumbrella">雨伞租借</string>
+    <string name="button_text_login">登录</string>
+    <string name="button_text_bind">绑定教务网</string>
+    <string name="button_text_about">关于</string>
+    <string name="button_text_turn_on_notification">开启推送</string>
+    <string name="button_text_course_detail">查看课程</string>
+    <string name="button_text_course_settings">编辑课程</string>
+    <string name="button_text_sign">签到</string>
+
+    <string name="about">金橙微校园 / JCMicroSchool \nAPP Designed by bsy,ws,zyc,zwj,lmy\njc.nuaa.edu.cn</string>
+</resources>
